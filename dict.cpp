@@ -7,12 +7,6 @@
 #include <stdlib.h>
 #include "search_functions.h"
 
-/* class dictonary
-{
-
-}; */
-
-
 struct dict_entry
 {
     std::string short_name;
@@ -30,7 +24,7 @@ void print_map(std::map<std::string, dict_entry> map_to_print)
 }
 
 
-void add_abbriv( std::map<std::string, dict_entry>& dict_map ,std::string user_abriv)
+/* void add_abbriv( std::map<std::string, dict_entry>& dict_map ,std::string user_abriv)
 {
     dict_entry temp_entry;
 
@@ -41,10 +35,7 @@ void add_abbriv( std::map<std::string, dict_entry>& dict_map ,std::string user_a
     
     temp_entry.short_name = user_abriv;
     dict_map[temp_entry.short_name] = temp_entry;         
-}
-
-
-
+} */
 
 int main()
 {
@@ -94,24 +85,12 @@ int main()
             if (action_no_match == "d_sv") { ddgo_search_sv(user_abriv);}
             if (action_no_match == "d_fr") { ddgo_search_fr(user_abriv);}
  
-            if (action_no_match == "a") { add_abbriv(dict_map, user_abriv);}
+            //if (action_no_match == "a") { add_abbriv(dict_map, user_abriv);}
 
         }
-        
-
+    
     }
-    
-    
-   
-    // no dubblecates.
-
-    // deliver description
-
-
-// 
-
-      // Close the file
-    MyReadFile.close();
+        MyReadFile.close();
 }
 
 
