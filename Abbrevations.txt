@@ -1,0 +1,136 @@
+ARA - AUTOSAR runtime for adaptive applications
+
+ASIL - Automotive safety integrity level
+
+AVB - Audio video bridging group (rebranded as TSN)
+
+BSW - Basic software module
+
+CA - Certificate authority
+
+CAN - Controller area network
+
+COM - Communication management
+
+CRC - Cyclic redundancy check
+
+CSR - Certificate signing request
+
+DEXT - Diagnostic extract
+
+DDS - Data distribution service
+
+DID - Data identifier
+
+DLT - Debug log and trace
+
+DM - Diagnostic management
+
+DSP - Digital signal processor
+
+DTC - Diagnostic trouble code
+
+DTLS - Datagram transport layer security
+
+ECU - Electronical control unit
+
+EM - Execution management
+
+E2E - End to end
+
+FC - Functional cluster
+
+HSM - Hardware security module
+
+IAM - Identity & access management
+
+IDSM - Intrusion detection system manager
+
+IPC - Inter-process communication
+
+IPsec - Internet protocol security
+
+LIN - Local interconnect network
+
+MAC - Media access control
+
+MICROSAR - Microcontroller open system architecture
+
+NM - Network mangement
+
+OBD - Onboard diagnostics
+
+OTA - Over the air
+
+OSI - Open systems interconnection
+
+PDP - Policy decision point
+
+PDU - Protocol data unit
+
+PEP - Policy enforcement point
+
+PHM - Platform health management
+
+PNC - Partial network cluster
+
+PTP - Precision time protocol
+
+QoS - Quality of service
+
+RDBI - Read data by identifier
+
+RPC - Remote procedure call
+
+RTPS - Real time publish subscribe
+
+SecOC - Specification of secure onboard communication protocol
+
+SHE - Secure hardware extension
+
+SHM - Shared memory
+
+SID - Service identifier
+
+SM - State management
+
+SoC - System on chip
+
+SOCAL - Service oriented communication abstraction layer
+
+SOME/IP - Scalable service-oriented middleware over IP
+
+SOVD - Service oriented vehicle diagnostics
+
+SPI - Serial peripheral interface
+
+SWC - Software component
+
+S2S - Signal to service
+
+TCP - Transmission control protocol
+
+TLS - Transport layer security
+
+TSN - Time sensetive networking
+
+TPM - Trusted platform module
+
+UDS - Unified diagnostic services
+
+UDP - User datagram protocol
+
+UCM - Update & configuration management
+
+URI - Uniform resource identifier
+
+UUID - Universally unique identifier
+
+VAC - Vector adaptive common library
+
+VFB - Virtual functional bus
+
+VLAN - Virtual local area network
+
+WCET - Worst case execution time
+
